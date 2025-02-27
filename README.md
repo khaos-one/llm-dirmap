@@ -107,13 +107,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - Built with [Zig](https://ziglang.org/), a systems programming language focused on robustness and clarity.
 - Designed to streamline directory context preparation for large language models.
-
----
-
-### Instructions for Use
-- Copy this text into your `README.md` file.
-- Replace `<your-username>` with your actual GitHub username or repository path.
-- If you’re using triple backticks for code blocks (e.g., `\`\`\`bash`), unescape them in your editor by removing the backslashes (e.g., `\`\`\`` → ```).
-- Ensure the file names (`llm-dirmap`, `llm-dirmap.config`) match your renamed program and config in the code.
-
-Let me know if you’d like further tweaks!
